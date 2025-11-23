@@ -110,7 +110,7 @@ Step 2: Clone Repository
 
 Bash
 
-git clone https://github.com/yourusername/roblox-spelling-bee-bot.git
+git clone https://github.com/idk-code404/RSBAB-test.git
 cd roblox-spelling-bee-bot
 
 Step 3: Install Dependencies
@@ -174,7 +174,7 @@ Step 2: Clone Repository
 
 Bash
 
-git clone https://github.com/yourusername/roblox-spelling-bee-bot.git
+git clone https://github.com/idk-code404/RSBAB-test.git
 cd roblox-spelling-bee-bot
 
 Step 3: Install Python Dependencies
