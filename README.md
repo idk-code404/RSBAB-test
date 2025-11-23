@@ -1,4 +1,4 @@
-🎮 Roblox Spelling Bee Audio Bot
+Roblox Spelling Bee Audio Bot
 
 A Python bot that listens to Roblox Spelling Bee audio, transcribes the word, and types it automatically.
 ⚠️ DISCLAIMER
