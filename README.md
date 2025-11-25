@@ -1,6 +1,6 @@
 Roblox Spelling Bee Audio Bot
 
-i have not tested it yet because i coded it for windows not linux
+i have not tested it yet because i coded it for windows not linux i know i could uses a VM i am too lazy 
 
 A Python bot that listens to Roblox Spelling Bee audio, transcribes the word, and types it automatically.
 ⚠️ DISCLAIMER
